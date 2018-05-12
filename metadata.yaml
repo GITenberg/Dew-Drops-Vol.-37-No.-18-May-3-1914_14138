@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '5448'
     url: http://www.gutenberg.org/2009/agents/5448
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14138#Dew-Drops-Vol.-37-No.-18-May-3-1914
 gutenberg_bookshelf: Dew Drops
 gutenberg_issued: '2004-11-24'
 gutenberg_type: Text
