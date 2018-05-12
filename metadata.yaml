@@ -1,0 +1,32 @@
+_repo: Dew-Drops-Vol.-37-No.-18-May-3-1914_14138
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Cook, George E.
+    gutenberg_agent_id: '5448'
+    url: http://www.gutenberg.org/2009/agents/5448
+description: ''
+gutenberg_bookshelf: Dew Drops
+gutenberg_issued: '2004-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s literature -- Periodicals'
+- !lcc 'PZ'
+- !lcc 'AP'
+- !lcsh 'Christian literature for children -- Periodicals'
+title: Dew Drops, Vol. 37, No. 18, May 3, 1914
+url: http://www.gutenberg.org/ebooks/14138
